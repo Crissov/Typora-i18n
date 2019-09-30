@@ -14,10 +14,10 @@
 "Close" = "Schließen";
 "Select" = "Auswählen";
 "Continue" = "Fortsetzen";
-"Learn More…" = "Mehr Erfahren…";
+"Learn More…" = "Mehr erfahren…";
 "Untitled" = "Unbenannt";
 "Undo" = "Widerrufen";
-"Dismiss" = "Schliessen";
+"Dismiss" = "Schließen";
 "Confirm" = "Bestätigen";
 "Error" = "Fehler";
 
@@ -57,43 +57,43 @@
 "Files" = "Dateien";
 "Switch to File List view" = "Zur Dateilistenansicht wechseln";
 "Switch to File Tree view" = "Zur Dateibaumansicht wechseln";
-"Switch to Outline view" = "Zur Gliederungssicht wechseln";
+"Switch to Outline view" = "Zur Gliederungsansicht wechseln";
 "Close sidebar" = "Seitenleiste schließen";
 "Loading" = "Laden";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Die ausgewählten Ordner enthalten zu viele Dateien. Bitte wechseln Sie zur <a id='switch-to-tree-on-oversize'>Dateibaumansicht</a> um eine bessere Leistung zu erreichen.";
 "New File" = "Neue Datei";
 "Unpin Outline Panel" = "Lösen des Gliederungsbereichs";
-"Open Folder..." = "Ordner öffnen...";
+"Open Folder..." = "Ordner öffnen…";
 "Action" = "Aktionen";
 "Close Sidebar Menu" = "Seitenleistenmenü schließen";
 "Reveal in Finder" = "Im Finder anzeigen";
-"Reveal in File Explorer" = "Im Dateiexplorer anzeigen";
+"Reveal in File Explorer" = "Im Explorer anzeigen";
 "Refresh Folder" = "Ordner aktualisieren";
 "Sort" = "Sortieren";
 "Group By Folder" = "Nach Ordnern gruppieren";
 "Sort Naturally" = "Natürlich sortieren";
-"Sort by Name (Ascending)" = "Nach Name sortieren (Ascending)";
-"Sort by Modification Date (Ascending)" = "Nach Änderungsdatum sortieren (Ascending)";
-"Sort by Name (Descending)" = "Nach Name sortieren (Descending)";
-"Sort by Modification Date (Descending)" = "Nach Änderungsdatum sortieren (Descending)";
+"Sort by Name (Ascending)" = "Alphabetisch aufsteigend sortieren";
+"Sort by Modification Date (Ascending)" = "Chronologisch aufsteigend sortieren";
+"Sort by Name (Descending)" = "Alphabetisch absteigend sortieren";
+"Sort by Modification Date (Descending)" = "Chronologisch absteigend sortieren";
 "Location" = "Ort";
-"Switch File List/Tree View" = "Zwischen Dateilisten- / -baumansicht wechseln";
-"No Files Available" = "Es sind keine Dateien verfügbar";
-"No Folder is Opened." = "Es ist kein Ordner geöffnet.";
-"Outline is Empty." = "Die Gliederung ist leer.";
+"Switch File List/Tree View" = "Zwischen Dateienansichten wechseln";
+"No Files Available" = "Keine Dateien verfügbar";
+"No Folder is Opened." = "Kein Ordner geöffnet";
+"Outline is Empty." = "Gliederung leer";
 
 /* Status Bar */
 "Toggle Sidebar" = "Seitenleiste umschalten";
-"Toggle Source Code Mode" = "In Quellcodemodus umschalten";
-"Exit Source Code Mode" = "Quellcodemodus verlassen";
+"Toggle Source Code Mode" = "Quellmodus umschalten";
+"Exit Source Code Mode" = "Quellmodus verlassen";
 
 "Table of Contents" = "Inhaltsverzeichnis";
 "Empty Diagram" = "Diagramm leeren";
-"Input Math TeX here" = "Math TeX hier eingeben";
+"Input Math TeX here" = "Mathe-TeX eingeben";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Es ist notwendig, die referenzierte Fußnote <b>{0}</b> mit Hilfe der Syntax <a>[^{1}]: www.example.com</a> zu definieren";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Es ist notwendig, die referenzierte Verknüpfung <b>[{0}]</b> mit Hilfe der Syntax <b>[{1}]: www.example.com</b> zu definieren";
-"Please define image reference by \n[{0}]: http://example.png" = "Die Bildreferenz muss über [{0}]: http://example.png definiert werden";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Der Fußnotentext <b>{0}</b> muss per <b>[^{1}]: Text</b> definiert werden.";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Das Linkziel <b>[{0}]</b> muss per <b>[{1}]: http://example.com</b> definiert werden.";
+"Please define image reference by \n[{0}]: http://example.png" = "Die Bildreferenz muss über <b>[{0}]: example.png</b> definiert werden";
 
 /* msg */
 "Failed to create file" = "Datei konnte nicht erstellt werden";
@@ -105,28 +105,28 @@
 "Overwrite" = "Überschreiben";
 "Stop" = "Abbruch";
 "back to document" = "Zurück zum Dokument";
-"Failed to load file" = "Datei kann nicht geladen werden";
-"Save File Failed!" = "Datei kann nicht gespeichert werden!"
-"Cannot open folder {0}" = "Der Ordner {0} kann nicht geladen werden";
+"Failed to load file" = "Datei konnte nicht geladen werden";
+"Save File Failed!" = "Datei konnte nicht gespeichert werden!"
+"Cannot open folder {0}" = "Ordner {0} konnte nicht geöffnet werden";
 
 "File content is changed by external applications. Reload content from disk ?" = "Der Dateiinhalt wurde durch eine andere Anwendung geändert. Soll die Datei neu geladen werden?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Datei(en) verschieben und vorhandene umbenennen fortsetzen?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Verschieben fortsetzen und vorhandene Dateien überschreiben?";
 
-"Rename Failed" = "Umbenennung fehlgeschlagen";
-"Rename to \"{0}\" ?" = "Nach \"{0}\" umbenennen";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Umbenennung von \"{0}\" nach \"{1}\" fehlgeschlagen";
+"Rename Failed" = "Umbenennen fehlgeschlagen";
+"Rename to \"{0}\" ?" = "In \"{0}\" umbenennen?";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Umbenennen von \"{0}\" in \"{1}\" fehlgeschlagen";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "{0} Bilder wurden erfolgreich hochgeladen";
-"Failed to upload image. Error Message:" = "Bild konnte nicht hochgeladen werden. Fehler Nachricht:";
+"Successfully uploaded {0} images." = "{0} Bilder erfolgreich hochgeladen";
+"Failed to upload image. Error Message:" = "Bild konnte nicht hochgeladen werden. Fehlermeldung:";
 "Failed to Copy Image to Target Folder." = "Bild konnte nicht in den Zielordner kopiert werden.";
-"Select Container Folder" = "Container Ordner auswählen";
+"Select Container Folder" = "Ordner auswählen";
 
 "Saved" = "Gespeichert";
 
 /* place holder in find & replace input */
 "search text" = "Suchtext";
-"replace with" = "ersetzen mit";
+"replace with" = "Ersetzen mit";
 /* search option */
-"Case Sensitive" = "Groß- und Kleinschreibung beachten";
+"Case Sensitive" = "Großschreibung beachten";
 "Whole Word" = "Gesamtes Wort";
