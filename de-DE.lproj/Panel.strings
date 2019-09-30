@@ -14,17 +14,17 @@
 "Window Style" = "Fensterdarstellung";
 "Classic" = "Klassisch";
 "Seamless" = "Nahtlos";
-"Seamless window only support OS X later than 10.10." = "Nahtlose Fenster werden erst ab macOS 10.10. und neuer unterstützt";
+"Seamless window only support OS X later than 10.10." = "Nahtlose Fenster werden erst ab macOS 10.10. unterstützt";
 "Themes" = "Themen";
 "Open Theme Folder" = "Themenordner öffnen";
 "Please check `help`->`Quick Start` for short introduction. Visit http://theme.typora.io to get more themes or instructions." = "Bitte nutzen Sie `Hilfe`->`Quick Start` für eine kurze Einführung. Besuchen Sie http://theme.typora.io um mehr Themen oder Anleitungen zu bekommen.";
 "Word Count" = "Wortanzahl";
 "Always Show Word Count" = "Wortanzahl immer zeigen";
 "Font Size" = "Schriftgröße";
-"Auto ( Recommended )" = "Auto ( Empfohlen )";
+"Auto ( Recommended )" = "Auto (empfohlen)";
 "Customized" = "Angepasst";
-"If custom font size is used, the actual font size will depend on the base font size and css style." = "Wenn eine angepasste Schriftgröße genutzt wird, ist die tatsächliche Schriftgröße abhängig von der Basis-Schriftgröße und der CSS Formatierung.";
- "Left Panel" = "Linke Seitenleiste";
+"If custom font size is used, the actual font size will depend on the base font size and css style." = "Wenn eine angepasste Schriftgröße genutzt wird, hängt die tatsächliche Schriftgröße von der Basis-Schriftgröße und der CSS-Formatierung ab.";
+"Left Panel" = "Linke Seitenleiste";
 "Show Outline Panel by Default" = "Gliederungsleiste standardmäßig anzeigen";
 "Collapsible Outline on Left Panel" = "Zusammenklappbare Gliederung in der linken Seitenleiste";
 "Save without asking when\nswitch files on side panel" = "Ohne Nachfragen speichern, wenn\nDateien über die Seitenleiste gewechselt werden";
@@ -40,37 +40,37 @@
 "Emoji (e.g. :smile:)" = "Emoji (z.B. :smile:)";
 "Images Insert" = "Eingefügte Bilder";
 "Use relative path if possible" = "Relativen Pfad nutzen, wenn möglich";
-"Allow copy images to given folder" = "Kopieren von Bildern in vorgegeben Ordner erlauben";
-"Allow upload to given server" = "Hochladen zu vorgegebenem Server erlauben";
+"Allow copy images to given folder" = "Kopieren von Bildern in vorgegebenen Ordner erlauben";
+"Allow upload to given server" = "Hochladen auf vorgegebenen Server erlauben";
 "Auto Pair" = "Automatische Vervollständingung";
 "Auto pair brackets and quotes" = "Automatisches Vervollständigen von Klammern und Anführungszeichen";
-"Auto pair common Markdown syntax" = "Automatische Vervollständigen für übliche Markdown Syntax";
+"Auto pair common Markdown syntax" = "Automatische Vervollständigen für übliche Markdown-Syntax";
 "Live Rendering" = "Echtzeit-Vorschau";
 "Display source for simple blocks\n(including headings, etc.) on focus" = "Quelle für einfache Abschnitte\n(inkl. Überschriften, etc.) bei Fokussierung anzeigen";
 "Default Copy Behavior" = "Standardverhalten beim Kopieren";
-"Copy Markdown source as plain text" = "Markdownquellen als reinen Text kopieren";
+"Copy Markdown source as plain text" = "Markdown als reinen Text kopieren";
 "Typewriter Mode" = "Schreibmaschinenmodus";
 "Always keep caret in middle of screen\nwhen typewriter mode is enabled" = "Einfügemarke immer in der Bildschirmmitte\nhalten, wenn Schreibmaschinenmodus aktiviert ist";
 
 /* Markdown Panel */
 "Markdown" = "Markdown";
 "(Following preferences will be applied after restart.)" = "(Die folgenden Einstellungen werden nach Neustart angewendet.)";
-"Syntax Support" = "Syntax Unterstützung";
-"Inline Math  ( e.g: $\LaTeX$ )" = "Formeln innerhalb der Zeile (e.g: $\LaTeX$)";
-"Subscript    ( e.g: H~2~O )" = "Tiefstellung (e.g: H~2~O)";
-"Superscript ( e.g: X^2^ )" = "Hochstellung (e.g: X^2^)";
-"Highlight     (e.g: ==key==)" = "Hervorhebung     (e.g: ==key==)";
+"Syntax Support" = "Syntax-Unterstützung";
+"Inline Math  ( e.g: $\LaTeX$ )" = "Formeln innerhalb der Zeile (z.B.: $\LaTeX$)";
+"Subscript    ( e.g: H~2~O )" = "Tiefstellung (z.B.: H~2~O)";
+"Superscript ( e.g: X^2^ )" = "Hochstellung (z.B.: X^2^)";
+"Highlight     (e.g: ==key==)" = "Hervorhebung (z.B.: ==key==)";
 "Diagrams" = "Diagramme";
 "(Sequence, Flowchart and Mermaid)" = "(Sequenz, Flußdiagramm und Mermaid)";
-"Syntax Preference" = "Syntax Einstellungen";
+"Syntax Preference" = "Syntax-Einstellungen";
 "(only applies to styles created from menubar or hybrid view)" = "(nur anwendbar für Zitate und Listen die über das Menü oder die Hybridansicht erstellt wurden)";
 "Strict Mode" = "Strikter Modus";
-"(more strict to GFM spec)" = "(folgt der GFM Spezifikation strikter)";
+"(more strict to GFM spec)" = "(folgt der GFM-Spezifikation strikter)";
 "Heading Style" = "Überschrift";
 "Ordered List" = "Geordnete Liste";
 "Unordered List" = "Ungeordnete Liste";
 "Code Fences" = "Codeblöcke";
-"Display line numbers for code fences" = "Zeilennummern für Codeblöcke anzeigen";
+"Display line numbers for code fences" = "Zeilennummern in Codeblöcken anzeigen";
 "Math Blocks" = "Formelblock";
 "Auto Numbering Math Equations" = "Mathematische Formeln automatisch nummerieren";
 
@@ -81,7 +81,7 @@
 
 /* Pandoc Error Panel */
 "Require Pandoc to Continue..." = "Pandoc wird zum Fortsetzen benötigt...";
-"Follow instructions to install Pandoc" = "Bitte der Anleitung zur Installation von Pandoc folgen";
+"Follow instructions to install Pandoc" = "Bitte Anweisungen befolgen, um Pandoc zu installieren";
 "Cancel" = "Abbrechen";
 
 /* Pandoc Import Panel */
@@ -112,20 +112,20 @@
 "Dark Theme not support" = "Dunkles Thema nicht unterstützt";
 "Sorry, current version of Typora won't print background color on exported PDF, So dark theme is not yet supported for PDF exporting. \nPlease choose a light theme or click \"Print with default theme\"" = "Leider unterstützt die aktuelle Version von Typora keine Hintergrundfarben in exportierten PDFs, daher wird das dunkle Thema beim PDF Export nicht unterstützt. \nBitte wählen Sie ein helles Thema oder \"Drucken mit Standard Thema\"";
 "Print with default theme" = "Drucken mit Standard Thema";
-"Export to PDF successfully." = "Der Export nach PDF war erfolgreich.";
+"Export to PDF successfully." = "Export nach PDF war erfolgreich.";
 "Converting file using Pandoc. This may take some time." = "Datei wird mit Pandoc umgewandelt. Dies kann eine Weile dauern.";
 "Exporting file using Pandoc. This may take some time." = "Datei wird mit Pandoc exportiert. Dies kann eine Weile dauern.";
 
 /* Upload via iPic */
-"Uploading Images via iPic..." = "Bilder über iPic hochladen...";
+"Uploading Images via iPic..." = "Bilder per iPic hochladen...";
 "Uploading in progress..." = "Hochladen in Bearbeitung...";
 "Do not show this again" = "Nicht erneut anzeigen";
 
 /* Word Count */
-"Minute" = "Minuten";
-"Line" = "Zeilen";
-"Word" = "Wörter";
-"Character" = "Buchstaben";
+"Minute" = "Minute";
+"Line" = "Zeile";
+"Word" = "Wort";
+"Character" = "Buchstabe";
 
 "Minutes" = "Minuten";
 "Lines" = "Zeilen";
@@ -144,10 +144,10 @@
 "Save & Recover" = "Sichern & Wiederherstellen";
 "Auto Save" = "Automatisches Speichern";
 "Recover Unsaved Drafts" = "Ungesicherte Entwürfe wiederherstellen";
-"Emoji Autocomplete" = "Emoji Autovervollständigung";
+"Emoji Autocomplete" = "Emoji-Autovervollständigung";
 "Trigger by ESC key" = "Aktivieren per ESC Taste";
 "Trigger automatically" = "Automatisch aktivieren";
-"Default Line Ending" = "Standard Zeilenende";
+"Default Line Ending" = "Standard-Zeilenende";
 "Line ending for new file" = "Zeilenende für neue Dateien";
 "Spell Check" = "Rechtschreibprüfung";
 "(support US English only)" = "(nur US Englisch unterstützt)";
@@ -185,8 +185,8 @@
 
 "Support Documentation" = "Unterstützungs-Dokumentation";
 
-"Markdown File" = "Markdown Datei";
-"Plain Text File" = "Reiner Text Datei";
+"Markdown File" = "Markdown-Datei";
+"Plain Text File" = "Text-Datei";
 "All Files" = "Alle Dateien";
 "All Supported Formats" = "Alle unterstützten Formate";
 "Discard Changes" = "Änderungen verwerfen";
